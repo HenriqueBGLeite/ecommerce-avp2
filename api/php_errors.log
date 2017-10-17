@@ -1,0 +1,18 @@
+[17-Oct-2017 23:41:38 UTC] PHP Fatal error:  Call to undefined function arry() in /home/ubuntu/workspace/api/categoria/consultar.php on line 12
+[17-Oct-2017 23:41:38 UTC] PHP Stack trace:
+[17-Oct-2017 23:41:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/categoria/consultar.php:0
+[17-Oct-2017 23:44:18 UTC] PHP Fatal error:  Call to undefined function arry() in /home/ubuntu/workspace/api/categoria/consultar.php on line 12
+[17-Oct-2017 23:44:18 UTC] PHP Stack trace:
+[17-Oct-2017 23:44:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/categoria/consultar.php:0
+[17-Oct-2017 23:45:58 UTC] PHP Fatal error:  Call to undefined function arry() in /home/ubuntu/workspace/api/categoria/consultar.php on line 12
+[17-Oct-2017 23:45:58 UTC] PHP Stack trace:
+[17-Oct-2017 23:45:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/categoria/consultar.php:0
+[17-Oct-2017 23:46:19 UTC] PHP Fatal error:  Call to undefined function arry() in /home/ubuntu/workspace/api/categoria/consultar.php on line 12
+[17-Oct-2017 23:46:19 UTC] PHP Stack trace:
+[17-Oct-2017 23:46:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/categoria/consultar.php:0
+[17-Oct-2017 23:46:53 UTC] PHP Fatal error:  Call to undefined function arry() in /home/ubuntu/workspace/api/categoria/consultar.php on line 12
+[17-Oct-2017 23:46:53 UTC] PHP Stack trace:
+[17-Oct-2017 23:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/categoria/consultar.php:0
+[17-Oct-2017 23:46:59 UTC] PHP Fatal error:  Call to undefined function arry() in /home/ubuntu/workspace/api/categoria/consultar.php on line 12
+[17-Oct-2017 23:46:59 UTC] PHP Stack trace:
+[17-Oct-2017 23:46:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/categoria/consultar.php:0
