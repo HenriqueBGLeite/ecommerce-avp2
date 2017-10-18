@@ -1,7 +1,6 @@
 <div class="container" ng-init="init()">
-    <h2>Teste</h2>
-    <h3>Bem-Vindo ao Site </h3>
     <div class="row">
+        <h3>Bem-Vindo ao Site </h3>
         <div class="col s3">
             <p>
                 Henrique Games colabora com vários gamers espalhados entre o mundo para disponibilização de jogos de todas as categorias para todos os gostos, garantindo sempre a satisfação de seus clientes.
@@ -12,14 +11,14 @@
                 <div class="col s6" ng-repeat="c in listaCategoria">
                     <div class="card">
                         <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="{{c.imagem}}">
+                            <img class="activator img-tam" src="{{c.imagem}}">
                         </div>
                         <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">{{c.nome}}<i class="material-icons length"><p>Descrição do Produto</p></i></span>
+                            <span class="card-title activator grey-text text-darken-4">{{c.nome}}<i class="material-icons right">more_vert</i></span>
                             <p><a href="#">Ver produtos</a></p>
                         </div>
                         <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">{{p.nome}}<i class="material-icons length">close</i></span>
+                            <span class="card-title grey-text text-darken-4">{{p.nome}}<i class="material-icons right">close</i></span>
                         </div>
                     </div>
                 </div>
